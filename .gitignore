@@ -1,0 +1,11 @@
+# Dev / QA artifacts
+node_modules/
+shots/
+*.mjs
+*.bak
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
